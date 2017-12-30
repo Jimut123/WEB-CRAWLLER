@@ -11,6 +11,18 @@ sudo apt-get install sqlite
 ```
 pip install bs4
 ```
+#### For running the program ::
+```
+git clone https://github.com/Jimut123/WEB-CRAWLLER.git
+
+cd WEB-CRAWLLER
+
+cd web
+
+python3 craw3.py
+ 
+```
+
 ## A glance of the database is given here
 The links collected are set to 0
 #### Some Glances of Data Collected (travelled links)
