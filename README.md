@@ -1,5 +1,5 @@
 # WEB-CRAWLLER
-A web crawller which crawls through the whole internet 
+A web crawler which crawls through the whole internet 
    -- A winter proj by [Jimut Bahan Pal](https://www.linkedin.com/in/jimut-bahan-pal-156862123/)
 ## Requirements ::
 ```
