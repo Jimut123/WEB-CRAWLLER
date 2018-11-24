@@ -1,4 +1,5 @@
-# WEB-CRAWLLER [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# WEB CRAWLER [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 A web crawler which crawls through the whole internet 
    -- A winter proj by [Jimut Bahan Pal](https://www.linkedin.com/in/jimut-bahan-pal-156862123/)
 ## Requirements ::
