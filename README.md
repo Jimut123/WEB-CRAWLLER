@@ -1,4 +1,4 @@
-# WEB-CRAWLLER
+# WEB-CRAWLLER [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 A web crawler which crawls through the whole internet 
    -- A winter proj by [Jimut Bahan Pal](https://www.linkedin.com/in/jimut-bahan-pal-156862123/)
 ## Requirements ::
